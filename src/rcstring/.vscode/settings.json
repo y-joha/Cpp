@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stddef.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "signal.h": "c",
+        "*.tcc": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "new": "cpp",
+        "iostream": "cpp"
+    }
+}
